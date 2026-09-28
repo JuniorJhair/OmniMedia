@@ -1,0 +1,8 @@
+{
+  "name": "OmniMedia",
+  "description": "Centro multimedia todo-en-uno profesional con reproductor de video, música, visor de fotos, playlists y bóveda privada protegida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

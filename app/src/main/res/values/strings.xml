@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">OmniMedia</string>
+
+    <!-- Navigation Labels -->
+    <string name="nav_home">Inicio</string>
+    <string name="nav_videos">Videos</string>
+    <string name="nav_music">Música</string>
+    <string name="nav_images">Imágenes</string>
+    <string name="nav_playlists">Playlists</string>
+    <string name="nav_vault">Bóveda</string>
+    <string name="nav_history">Historial</string>
+    <string name="nav_settings">Configuración</string>
+    <string name="nav_stats">Estadísticas</string>
+
+    <!-- Sections & Headers -->
+    <string name="section_continue_watching">Continuar viendo</string>
+    <string name="section_recently_played">Reproducidos recientemente</string>
+    <string name="section_recently_added">Agregados recientemente</string>
+    <string name="section_favorites">Favoritos</string>
+    <string name="section_quick_playlists">Playlists rápidas</string>
+    <string name="section_storage_overview">Resumen de almacenamiento</string>
+
+    <!-- Common Actions -->
+    <string name="action_search">Buscar</string>
+    <string name="action_filter">Filtrar</string>
+    <string name="action_sort">Ordenar</string>
+    <string name="action_view_mode">Modo de vista</string>
+    <string name="action_create">Crear</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_save">Guardar</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="action_restore">Restaurar</string>
+    <string name="action_protect">Proteger</string>
+    <string name="action_unlock">Desbloquear</string>
+    <string name="action_play">Reproducir</string>
+
+    <!-- Vault Strings -->
+    <string name="vault_title">Bóveda Privada</string>
+    <string name="vault_description">Protege tus videos, música e imágenes confidenciales con PIN y cifrado local.</string>
+    <string name="vault_enter_pin">Introduce tu PIN de 4 dígitos</string>
+    <string name="vault_set_pin">Crear PIN de seguridad</string>
+    <string name="vault_confirm_pin">Confirma tu PIN</string>
+    <string name="vault_pin_error">PIN incorrecto. Inténtalo de nuevo.</string>
+    <string name="vault_locked">La bóveda está bloqueada</string>
+
+    <!-- Settings Strings -->
+    <string name="settings_playback">Reproducción</string>
+    <string name="settings_gestures">Gestos y controles</string>
+    <string name="settings_subtitles">Subtítulos</string>
+    <string name="settings_library">Biblioteca</string>
+    <string name="settings_audio">Audio y ecualizador</string>
+    <string name="settings_privacy">Privacidad y Bóveda</string>
+    <string name="settings_appearance">Apariencia</string>
+    <string name="settings_about">Acerca de OmniMedia</string>
+
+    <string name="empty_home_title">Tu centro multimedia</string>
+    <string name="empty_home_subtitle">Explora tus videos, canciones y fotos locales, o transmite desde una URL.</string>
+</resources>
